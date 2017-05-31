@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Git-Issues</string>
+    <string name="visible">true</string>
 </resources>
